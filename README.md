@@ -12,4 +12,4 @@ Short about it, there are four cameras, but only three are used in "regular" bro
 Contains a list of equipment ment for the Control Room and is used to control the broadcast, videostreams and light.
 
 # Spotlights and Lamps
-Contains a list of lamps and lamp equipment to lighten the studio.
+Contains a list of lamps and lamp equipment to light up the studio.
